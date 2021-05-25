@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: nicho
-Build-Jdk: 14
+Build-Jdk-Spec: 15
+Main-Class: com.qa.main.Runner
 Created-By: Maven Integration for Eclipse
 
